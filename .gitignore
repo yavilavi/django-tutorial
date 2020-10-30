@@ -1,0 +1,10 @@
+/env
+db.py
+/app/config/__pycache__/*
+/app/.vscode
+/.vscode
+/config/__pycache__
+/app/.idea
+/app/core/__pycache__/*
+/app/core/brain/migrations/*
+/__pycache__/*

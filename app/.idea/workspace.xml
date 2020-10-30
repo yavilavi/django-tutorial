@@ -7,8 +7,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="app" is-module-sdk="true">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1ZhFi7wFKPw9AsxG71KwhitSVHM" />
   <component name="ProjectViewState">
@@ -19,8 +28,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/settings.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="last_opened_file_path" value="D:/Sistemas de Venta/Django/Personal/algorisoft/app" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="server" type="Python.DjangoServer" factoryName="Django server">
@@ -29,6 +38,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="config.settings" />
       </envs>
       <option name="SDK_HOME" value="F:\Projects\hades\env\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -60,7 +70,15 @@
       <workItem from="1585283544609" duration="777000" />
       <workItem from="1585284768780" duration="32000" />
       <workItem from="1585531461865" duration="628000" />
-      <workItem from="1585542878164" duration="940000" />
+      <workItem from="1585542878164" duration="1985000" />
+      <workItem from="1585545253465" duration="1170000" />
+      <workItem from="1585546460305" duration="665000" />
+      <workItem from="1585547671991" duration="1067000" />
+      <workItem from="1585548985735" duration="77000" />
+      <workItem from="1585549082758" duration="1375000" />
+      <workItem from="1585618517179" duration="44000" />
+      <workItem from="1585618580598" duration="3424000" />
+      <workItem from="1585625300413" duration="3355000" />
     </task>
     <servers />
   </component>
@@ -68,37 +86,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585543065654">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585621269051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585543065654" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1585543248604">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585621269051" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1585630280281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585543248604" />
-    <state width="1877" height="438" key="GridCell.Tab.0.bottom" timestamp="1585543269644">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585630280281" />
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1585548741703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="438" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585543269644" />
-    <state width="1877" height="438" key="GridCell.Tab.0.center" timestamp="1585543269644">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585548741703" />
+    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1585548741703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="438" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585543269644" />
-    <state width="1877" height="438" key="GridCell.Tab.0.left" timestamp="1585543269644">
+    <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585548741703" />
+    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1585548741703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="438" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585543269644" />
-    <state width="1877" height="438" key="GridCell.Tab.0.right" timestamp="1585543269644">
+    <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585548741703" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1585548741703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="438" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585543269644" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585543265134">
+    <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585548741703" />
+    <state x="614" y="133" key="SettingsEditor" timestamp="1585626699542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585543265134" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585542879122">
+    <state x="614" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585626699542" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585630248158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585542879122" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585630248158" />
   </component>
 </project>

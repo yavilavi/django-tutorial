@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Sistemas de Venta/Django/Personal/algorisoft/app" />
+    <property name="last_opened_file_path" value="D:/Sistemas de Venta/Django/Trabajos/2020/anuket/app" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.tests">
@@ -106,7 +106,9 @@
       <workItem from="1585618580598" duration="3424000" />
       <workItem from="1585625300413" duration="3355000" />
       <workItem from="1585630246451" duration="287000" />
-      <workItem from="1585799002347" duration="8575000" />
+      <workItem from="1585799002347" duration="8966000" />
+      <workItem from="1585844458943" duration="93000" />
+      <workItem from="1585846979152" duration="6087000" />
     </task>
     <servers />
   </component>
@@ -126,36 +128,36 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="282" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585800463176" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1585807556695">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1585861327013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585807556695" />
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1585807334804">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585861327013" />
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1585872242657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585807334804" />
-    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1585807334804">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1585872242657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585807334804" />
-    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1585807334804">
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1585872242657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585807334804" />
-    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1585807334804">
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1585872242657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585807334804" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
     <state x="614" y="133" key="SettingsEditor" timestamp="1585803984659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="614" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585803984659" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585630248158">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585844468666">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585630248158" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585844468666" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/app$tests.coverage" NAME="tests Coverage Results" MODIFIED="1585807334804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/erp" />
+    <SUITE FILE_PATH="coverage/app$tests.coverage" NAME="tests Coverage Results" MODIFIED="1585853573785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/erp" />
   </component>
 </project>

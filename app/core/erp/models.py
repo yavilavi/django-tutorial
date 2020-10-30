@@ -3,7 +3,7 @@ from datetime import datetime
 
 
 class Type(models.Model):
-    name = models.CharField(max_length=150, verbose_name='Nombre')
+    name = models.CharField(max_length=150, verbose_name='Nombre', unique=True)
 
     def __str__(self):
         return self.name
@@ -48,3 +48,5 @@ class Employee(models.Model):
         verbose_name = 'Empleado'
         verbose_name_plural = 'Empleados'
         ordering = ['id']
+
+
